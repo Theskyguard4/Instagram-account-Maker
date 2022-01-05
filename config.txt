@@ -1,0 +1,16 @@
+~do not change order or script will not function
+
+Test Login after each creation(true/false): "false"
+Creation delay:"5"
+Username highest number: "9999"
+Connection Error timeout: "4"
+
+#Get Sms-Activate
+API Key: ""
+Failed to grab number attempt timeout: "15"
+Instagram Phone number price: "13"
+
+#2Captcha
+API key: "1234"
+
+
